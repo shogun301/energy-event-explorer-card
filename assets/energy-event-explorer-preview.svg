@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-labelledby="title desc">
+  <title id="title">Energy Event Explorer synthetic preview</title>
+  <desc id="desc">A dark dashboard card with three energy event timelines and summary totals.</desc>
+  <rect width="1200" height="630" fill="#10151d"/>
+  <rect x="70" y="58" width="1060" height="514" rx="22" fill="#1b222d" stroke="#344150" stroke-width="2"/>
+  <text x="110" y="112" fill="#f4f7fb" font-family="sans-serif" font-size="30">Energy event explorer</text>
+  <text x="110" y="143" fill="#a9b4c3" font-family="sans-serif" font-size="17">Synthetic data · aligned five-minute observations</text>
+  <g font-family="sans-serif">
+    <rect x="110" y="174" width="275" height="76" rx="12" fill="#242d39"/><text x="132" y="206" fill="#fff" font-size="27">4</text><text x="132" y="231" fill="#a9b4c3" font-size="15">detected events</text>
+    <rect x="405" y="174" width="275" height="76" rx="12" fill="#242d39"/><text x="427" y="206" fill="#fff" font-size="27">3.42 kWh</text><text x="427" y="231" fill="#a9b4c3" font-size="15">associated export</text>
+    <rect x="700" y="174" width="275" height="76" rx="12" fill="#242d39"/><text x="722" y="206" fill="#fff" font-size="27">0</text><text x="722" y="231" fill="#a9b4c3" font-size="15">missing-data buckets</text>
+    <g fill="#dbe3ed" font-size="17"><text x="110" y="309">Export with SOC headroom</text><text x="110" y="375">Discharge while exporting</text><text x="110" y="441">Peak tariff overlap</text></g>
+    <g fill="#2a3441"><rect x="370" y="287" width="690" height="24" rx="7"/><rect x="370" y="353" width="690" height="24" rx="7"/><rect x="370" y="419" width="690" height="24" rx="7"/></g>
+    <rect x="548" y="287" width="186" height="24" rx="7" fill="#6d5dfc"/><rect x="804" y="287" width="92" height="24" rx="7" fill="#6d5dfc"/>
+    <rect x="610" y="353" width="146" height="24" rx="7" fill="#ec4899"/>
+    <rect x="804" y="419" width="182" height="24" rx="7" fill="#f59e0b"/>
+    <text x="110" y="520" fill="#8f9cad" font-size="15">Missing required observations are excluded—not inferred.</text>
+  </g>
+</svg>
