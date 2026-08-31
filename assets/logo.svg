@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" role="img" aria-labelledby="title desc">
+  <title id="title">Energy Event Explorer</title>
+  <desc id="desc">A magnifying lens over colored energy-event timelines.</desc>
+  <rect width="256" height="256" rx="52" fill="#10151d"/>
+  <circle cx="111" cy="111" r="64" fill="#1b222d" stroke="#dbe3ed" stroke-width="10"/>
+  <path d="M157 157l52 52" stroke="#dbe3ed" stroke-width="18" stroke-linecap="round"/>
+  <g stroke="#344150" stroke-width="12" stroke-linecap="round">
+    <path d="M67 82h88"/>
+    <path d="M67 111h88"/>
+    <path d="M67 140h70"/>
+  </g>
+  <path d="M77 82h30" stroke="#6d5dfc" stroke-width="12" stroke-linecap="round"/>
+  <path d="M116 111h30" stroke="#ec4899" stroke-width="12" stroke-linecap="round"/>
+  <path d="M84 140h35" stroke="#f59e0b" stroke-width="12" stroke-linecap="round"/>
+  <circle cx="156" cy="58" r="11" fill="#14b8a6"/>
+</svg>

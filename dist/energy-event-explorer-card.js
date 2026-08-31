@@ -1,4 +1,4 @@
-/* Energy Event Explorer Card v0.1.0 | Apache-2.0 */
+/* Energy Event Explorer Card v0.1.1 | Apache-2.0 */
 const DEFAULT_BUCKET_MINUTES = 5;
 
 const DEFAULT_METRICS = {

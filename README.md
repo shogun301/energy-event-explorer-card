@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/logo.svg" width="128" height="128" alt="Energy Event Explorer logo">
+</p>
+
 # Energy Event Explorer Card
 
 Provider-neutral Home Assistant dashboard cards for understanding **when** important energy behavior occurred—not just how much energy moved.
@@ -5,6 +9,9 @@ Provider-neutral Home Assistant dashboard cards for understanding **when** impor
 ![Synthetic preview of the Energy Event Explorer card](assets/energy-event-explorer-preview.svg)
 
 The preview uses synthetic data. This project does not contain site identifiers, production measurements, entity IDs, credentials, or vendor-specific defaults.
+
+The project logo is original artwork. Its editable SVG source and 256/512-pixel
+PNG exports are included under `assets/`.
 
 ## Included cards
 

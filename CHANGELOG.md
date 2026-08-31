@@ -4,6 +4,10 @@ All notable changes are documented here. This project follows Semantic Versionin
 
 ## [Unreleased]
 
+## [0.1.1] - 2026-08-31
+
+- Added an original Energy Event Explorer logo with SVG source and 256/512-pixel PNG exports.
+
 ## [0.1.0] - 2026-08-30
 
 - Initial provider-neutral event rule engine.
