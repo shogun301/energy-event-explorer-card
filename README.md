@@ -4,11 +4,12 @@
 
 # Energy Event Explorer Card
 
-Provider-neutral Home Assistant dashboard cards for understanding **when** important energy behavior occurred—not just how much energy moved.
+Home Assistant dashboard cards that show **when** configurable energy events
+occurred, how long they lasted, and how much energy was associated with them.
 
 ![Synthetic preview of the Energy Event Explorer card](assets/energy-event-explorer-preview.svg)
 
-The preview uses synthetic data. This project does not contain site identifiers, production measurements, entity IDs, credentials, or vendor-specific defaults.
+The preview and example entity IDs use fictional data.
 
 The project logo is original artwork. Its editable SVG source and 256/512-pixel
 PNG exports are included under `assets/`.

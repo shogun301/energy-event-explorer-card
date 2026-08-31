@@ -4,6 +4,11 @@ All notable changes are documented here. This project follows Semantic Versionin
 
 ## [Unreleased]
 
+## [0.1.2] - 2026-08-31
+
+- Rewrote public and card-picker descriptions around event timing, duration,
+  associated energy, and explicit missing-data reporting.
+
 ## [0.1.1] - 2026-08-31
 
 - Added an original Energy Event Explorer logo with SVG source and 256/512-pixel PNG exports.

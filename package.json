@@ -1,7 +1,7 @@
 {
   "name": "energy-event-explorer-card",
-  "version": "0.1.1",
-  "description": "Provider-neutral Home Assistant cards for energy history and event timing",
+  "version": "0.1.2",
+  "description": "Home Assistant cards for energy history, event timing, duration, and associated energy",
   "type": "module",
   "private": true,
   "license": "Apache-2.0",
