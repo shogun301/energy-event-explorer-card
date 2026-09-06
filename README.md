@@ -26,6 +26,8 @@ The cards accept ordinary Home Assistant entities and statistics. They are not t
 
 ### HACS custom repository
 
+[![Open your Home Assistant instance and open a repository inside HACS.](https://my.home-assistant.io/badges/hacs_repository.svg)](https://my.home-assistant.io/redirect/hacs_repository/?owner=shogun301&repository=energy-event-explorer-card&category=plugin)
+
 1. In HACS, add this repository as a **Dashboard** custom repository.
 2. Install **Energy Event Explorer Card**.
 3. Add `/hacsfiles/energy-event-explorer-card/energy-event-explorer-card.js` as a JavaScript module if HACS does not add it automatically.
